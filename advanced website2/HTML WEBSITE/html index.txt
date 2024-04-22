@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>Mrs Griffin website</tittle></head>
+<body>
+<header>
+
+</header>
+<hr>
+<nav>
+<table border="1">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</nav>
+</body>
